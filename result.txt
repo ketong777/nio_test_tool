@@ -1,0 +1,180 @@
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'reboot', 'Parameter': ''}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-09-12-39
+The 2 time pass----case start time : 2022-01-10-09-18-13
+The 3 time pass----case start time : 2022-01-10-09-23-09
+The 4 time fail----case start time : 2022-01-10-09-28-05
+The 5 time pass----case start time : 2022-01-10-09-33-01
+The 6 time pass----case start time : 2022-01-10-09-37-58
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'adapter_test_command', 'Parameter': '37,2,2,1,8,18'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-09-47-44
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -I rmnet_data0 -c4'}
+{'Action': 'adapter_test_command', 'Parameter': '37,2,3,1,8,18'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -I rmnet_data0 -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-09-50-54
+The 2 time pass----case start time : 2022-01-10-09-52-23
+The 3 time fail----case start time : 2022-01-10-09-53-51
+The 4 time fail----case start time : 2022-01-10-09-55-20
+The 5 time fail----case start time : 2022-01-10-09-56-49
+The 6 time fail----case start time : 2022-01-10-09-58-17
+The 7 time fail----case start time : 2022-01-10-09-59-46
+The 8 time fail----case start time : 2022-01-10-10-01-14
+number_of_tests:5
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-10-02-53
+The 2 time pass----case start time : 2022-01-10-10-04-18
+The 3 time pass----case start time : 2022-01-10-10-05-42
+The 4 time pass----case start time : 2022-01-10-10-07-07
+The 5 time pass----case start time : 2022-01-10-10-08-31
+-----------------end the test pass 5 times-----------------
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-10-30-37
+The 2 time pass----case start time : 2022-01-10-10-32-02
+The 3 time pass----case start time : 2022-01-10-10-33-26
+The 4 time pass----case start time : 2022-01-10-10-34-50
+The 5 time pass----case start time : 2022-01-10-10-36-15
+The 6 time pass----case start time : 2022-01-10-10-37-39
+The 7 time pass----case start time : 2022-01-10-10-39-04
+The 8 time pass----case start time : 2022-01-10-10-40-28
+The 9 time pass----case start time : 2022-01-10-10-41-52
+The 10 time pass----case start time : 2022-01-10-10-43-17
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,1,1'}
+{'Action': 'wait', 'Parameter': '60'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-10-46-19
+The 2 time pass----case start time : 2022-01-10-10-48-02
+The 3 time pass----case start time : 2022-01-10-10-49-45
+The 4 time pass----case start time : 2022-01-10-10-51-29
+The 5 time pass----case start time : 2022-01-10-10-53-12
+The 6 time pass----case start time : 2022-01-10-10-54-55
+The 7 time pass----case start time : 2022-01-10-10-56-39
+The 8 time pass----case start time : 2022-01-10-10-58-22
+The 9 time pass----case start time : 2022-01-10-11-00-06
+The 10 time pass----case start time : 2022-01-10-11-01-49
+-----------------end the test pass 10 times-----------------
+number_of_tests:3
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'send_command', 'Parameter': 'ql_cmd at at+cfun=4'}
+{'Action': 'wait', 'Parameter': '10'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'reboot', 'Parameter': ''}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+number_of_tests:3
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'send_command', 'Parameter': 'ql_cmd at at+cfun=4'}
+{'Action': 'wait', 'Parameter': '10'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'reboot', 'Parameter': ''}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-11-06-59
+The 2 time fail----case start time : 2022-01-10-11-12-57
+The 3 time fail----case start time : 2022-01-10-11-18-56
+-----------------end the test pass 1 times-----------------
+number_of_tests:2
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '40'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'send_command', 'Parameter': 'ql_cmd at at+cfun=4'}
+{'Action': 'wait', 'Parameter': '10'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'reboot', 'Parameter': '200'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-11-29-28
+The 2 time pass----case start time : 2022-01-10-11-35-36
+-----------------end the test pass 2 times-----------------
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '30'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'adapter_test_command', 'Parameter': '37,3,1,8,18'}
+{'Action': 'wait', 'Parameter': '10'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-11-43-40
+The 2 time pass----case start time : 2022-01-10-11-45-38
+The 3 time pass----case start time : 2022-01-10-11-47-35
+The 4 time pass----case start time : 2022-01-10-11-49-33
+The 5 time pass----case start time : 2022-01-10-11-51-31
+The 6 time pass----case start time : 2022-01-10-11-53-28
+The 7 time pass----case start time : 2022-01-10-11-55-26
+The 8 time pass----case start time : 2022-01-10-11-57-23
+The 9 time pass----case start time : 2022-01-10-11-59-21
+The 10 time pass----case start time : 2022-01-10-12-01-19
+-----------------end the test pass 10 times-----------------
+number_of_tests:10
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,1,0,2,2,0,2,3,0,8,18'}
+{'Action': 'wait', 'Parameter': '40'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'send_command', 'Parameter': 'ql_cmd at at+cfun=4'}
+{'Action': 'wait', 'Parameter': '10'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'reboot', 'Parameter': '200'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-12-04-50
+The 2 time pass----case start time : 2022-01-10-12-10-58
+The 3 time pass----case start time : 2022-01-10-12-17-07
+The 4 time pass----case start time : 2022-01-10-12-23-15
+The 5 time fail----case start time : 2022-01-10-12-29-23
+The 6 time pass----case start time : 2022-01-10-12-35-32
+The 7 time pass----case start time : 2022-01-10-12-41-40
+The 8 time pass----case start time : 2022-01-10-12-47-48
+The 9 time pass----case start time : 2022-01-10-12-53-57
+The 10 time fail----case start time : 2022-01-10-13-00-05
+-----------------end the test pass 8 times-----------------
