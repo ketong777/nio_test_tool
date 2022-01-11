@@ -51,3 +51,22 @@ The 8 time fail----case start time : 2022-01-10-15-17-08
 The 9 time pass----case start time : 2022-01-10-15-21-54
 The 10 time pass----case start time : 2022-01-10-15-26-41
 -----------------end the test pass 7 times-----------------
+number_of_tests:20
+{'Action': 'adapter_test_command', 'Parameter': '37,3,2,2,2,0'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_pass', 'Parameter': 'ping www.baidu.com -c4'}
+{'Action': 'adapter_test_command', 'Parameter': '37,2,2,1,8,18'}
+{'Action': 'wait', 'Parameter': '5'}
+{'Action': 'check_network_fail', 'Parameter': 'ping www.baidu.com -c4'}
+
+-----------------Start the test ------------------
+The 1 time pass----case start time : 2022-01-10-15-46-53
+The 2 time fail----case start time : 2022-01-10-15-48-13
+The 3 time fail----case start time : 2022-01-10-15-49-34
+The 4 time pass----case start time : 2022-01-10-15-50-54
+The 5 time pass----case start time : 2022-01-10-15-52-15
+The 6 time pass----case start time : 2022-01-10-15-53-36
+The 7 time pass----case start time : 2022-01-10-15-54-56
+The 8 time pass----case start time : 2022-01-10-15-56-17
+The 9 time pass----case start time : 2022-01-10-15-57-37
+The 10 time pass----case start time : 2022-01-10-15-58-58
