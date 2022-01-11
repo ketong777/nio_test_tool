@@ -6,7 +6,7 @@
         },
         {
             "Action": "wait",
-            "Parameter": "5"
+            "Parameter": "10"
         },
         {
             "Action": "check_network_pass",
@@ -32,7 +32,7 @@
         },
         {
             "Action": "wait",
-            "Parameter": "5"
+            "Parameter": "10"
         },
         {
             "Action": "check_network_pass",
@@ -188,7 +188,7 @@
         },
         {
             "Action": "wait",
-            "Parameter": "70"
+            "Parameter": "60"
         },
         {
             "Action": "check_network_pass",
