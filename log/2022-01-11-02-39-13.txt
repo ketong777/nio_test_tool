@@ -1,0 +1,202 @@
+---test case print---
+
+~ # root
+/bin/sh: root: not found
+~ # qo}g{F!rzXcp2jUQ6T%7
+/bin/sh: qo}g{F!rzXcp2jUQ6T%7: not found
+~ #date
+Mon Jan 10 18:39:22 UTC 2022
+~ #adaptertest.app.target
+Function:[VoiceBroadcastInfoAnaly]---MsgID is 7
+NTF_CALL_STATE is 7
+signal id:10000002  value:-1
+signal id:10000003  value:-1
+
+signal id:10000004  value:-1
+Function:[SystemBroadcastInfoAnaly]---MsgID is 8192
+signal id:10000005  value:-1
+signal id:10000006  value:-1
+EV_MCU_VERISON_NUMBER is SAN.00.03.1478.14
+2022/01/10 18:39:26.922790   72352066 000 ECU1 TEST TSWF log info V 10 [[Adapter Test WIFI][ onOnline ][ 378 ] Wifi session id is: 10 is_first id is: 1]
+2022/01/10 18:39:26.927563   72352114 001 ECU1 TEST TSWF log info V 7 [[Adapter Test WIFI][ onOnline ][ 397 ] Wifi End]
+signal id:10000007  value:-1
+signal id:10000008  value:-1
+signal id:10000009  value:-1
+signal id:1000000a  value:-1
+signal id:1000000b  value:-1
+signal id:1000000c  value:-1
+Function:[SystemBroadcastInfoAnaly]---MsgID is 8193
+EV_SOC_VERISON_NUMBER is SAN.00.03.1478.14
+Function:[SystemBroadcastInfoAnaly]---MsgID is 8195
+EV_MODEM_VERISON_NUMBER is SAN.00.03.1478.14
+signal id:1000000d  value:-1
+signal id:1000000e  value:-1
+signal id:1000000f  value:-1
+signal id:10000010  value:-1
+signal id:10000011  value:-1
+signal id:10000012  value:-1
+signal id:10000013  value:-1
+signal id:10000014  value:-1
+signal id:10000015  value:-1
+signal id:10000016  value:-1
+signal id:10000017  value:-1
+signal id:10000018  value:-1
+signal id:10000019  value:-1
+signal id:1000001a  value:-1
+signal id:1000001b  value:-1
+signal id:1000001c  value:-1
+signal id:1000001d  value:-1
+signal id:1000001e  value:-1
+signal id:1000001f  value:-1
+signal id:10000022  value:-1
+signal id:10000023  value:-1
+signal id:10000029  value:-1
+signal id:1000002a  value:-1
+signal id:1000002b  value:-1
+signal id:1000002c  value:-1
+signal id:1000002d  value:-1
+signal id:1000002e  value:-1
+signal id:1000002f  value:-1
+signal id:10000030  value:-1
+signal id:10000031  value:-1
+signal id:10000032  value:-1
+signal id:10000033  value:-1
+signal id:10000034  value:-1
+signal id:10000035  value:-1
+signal id:10000036  value:-1
+signal id:10000037  value:-1
+signal id:10000038  value:-1
+signal id:10000039  value:-1
+signal id:1000003a  value:-1
+signal id:1000003b  value:-1
+signal id:1000003c  value:-1
+signal id:1000003d  value:-1
+signal id:1000003e  value:-1
+signal id:1000003f  value:-1
+signal id:10000040  value:-1
+signal id:10000041  value:-1
+signal id:10000042  value:-1
+signal id:10000043  value:-1
+signal id:10000044  value:-1
+signal id:10000045  value:-1
+signal id:10000046  value:-1
+signal id:10000047  value:-1
+signal id:10000048  value:-1
+signal id:10000049  value:-1
+signal id:1000004a  value:-1
+signal id:1000004b  value:-1
+signal id:1000004c  value:-1
+signal id:1000004d  value:-1
+signal id:1000004e  value:-1
+signal id:1000004f  value:-1
+signal id:10000050  value:-1
+signal id:10000051  value:-1
+signal id:10000052  value:-1
+signal id:10000053  value:-1
+signal id:10000054  value:-1
+signal id:10000055  value:-1
+signal id:10000056  value:-1
+37
+please input test code:
+*****************Main Menu!************************
+*  input 1  is: GNSS Test Start!                  *
+*  input 2  is: GNSS Test Stop!                   *
+*  input 3  is: bCall Test Start!                 *
+*  input 4  is: Answer Call                       *
+*  input 5 is: Hangup Call                       *
+*  input 6 is: Hold Call                         *
+*  input 7 is: Unhold Call                       *
+*  input 8 is: Can Remote Ctrl!                  *
+*  input 9 is: DR Test Start!                    *
+*  input 10 is: DR Test Stop!                     *
+*  input 11 is: GPS Test Start!                   *
+*  input 12 is: GPS Test Stop!                    *
+*  input 13 is: BLE Test!                         *
+*  input 14 is: System Test!                      *
+*  input 15 is: Power Test!                       *
+*  input 16 is: BackupBaterry Test Start!         *
+*  input 17 is: BackupBaterry Test Stop!          *
+*  input 18 is: MainBaterry Test Start!           *
+*  input 19 is: MainBaterry Test Stop!            *
+*  input 20 is: GPRMC Test Start!                 *
+*  input 21 is: GPRMC Test Stop!                  *
+*  input 22 is: PISI Test Start!                  *
+*  input 23 is: GPGSV Test Start!                 *
+*  input 24 is: GPGSV Test Stop!                  *
+*  input 25 is: GPGSA Test Start!                 *
+*  input 26 is: GPGSA Test Stop!                  *
+*  input 27 is: GPGGA Test Start!                 *
+*  input 28 is: GPGGA Test Stop!                  *
+*  input 29 is: Diag Test Start!                  *
+*  input 30 is: EBD Test Start!                   *
+*  input 31 is: V2X Test Start!                   *
+*  input 32 is: Call Red light On                 *
+*  input 33 is: Call Red light Off                *
+*  input 34 is: Call Green light On               *
+*  input 35 is: Call Green light Off              *
+*  input 36 is: Call set light brightness         *
+*  input 37 is: Enter celluar network             *
+*  input 38 is: Wi-Fi Ctrl                        *
+*  input 39 is: Someip Test Ctrl                  *
+*  input 40 is: Ethernet Ctrl                     *
+*  input 41 is: Update Test Start                 *
+*  input 42 is: Battery disable                   *
+*  input 43 is: Reset SA                          *
+*  input 44 is: Log Test Start                    *
+*  input 45 is: MCU Test Menu                     *
+*  input 46 is: audio capture file                *
+*  input 47 is: audio play file                   *
+*  input 48 is: AMP1 open                         *
+*  input 49 is: AMP1 close                        *
+*  input 50 is: AMP2 open                         *
+*  input 51 is: AMP2 close                        *
+*  input 52 is: voice selftest check              *
+*  input 53 is: get voice eu ecall state          *
+*  input 54 is: dial EU ecall                     *
+*  input 55 is: hang up EU ecall                  *
+*  input 56 is: update EU ecall MSD data          *
+*  input 57 is: audio tone play                   *
+*  input 58 is: create storage file               *
+*  input 59 is: delete storage file               *
+*  input 60 is: Nad Monitor Soc Switch            *
+***************************************************
+
+Enter celluar network!
+please input test code:
+*****************Main NAD Menu!********************
+*  input exit to return up layer		          *
+*  input 1  is: Set NW RESET					  *
+*  input 2  is: Set NW Apn Switch                 *
+*  input 3  is: Set Air Plane Mode                *
+*  input 4  is: Set Perf NW Mode Roaming          *
+*  input 5  is: Get ICCID                         *
+*  input 6  is: Get IMEI                          *
+*  input 7  is: Get IMSI                          *
+*  input 8  is: Get Apn Info             		  *
+*  input 9  is: Get Register NW Info 	          *
+*  input 10 is: Get Signal Strength Info          *
+*  input 11 is: Get Air Plane Mode                *
+*  input 12 is: Get Perf Nw and Roaming           *
+*  input 13 is: Get Mno Info                      *
+*  input 14 is: Ntf Signal Strength Start         *
+*  input 15 is: Ntf Signal Strength Stop          *
+*  input 16 is: Get Voice Register Info           *
+*  input 17 is: Get NITZ Time Info                *
+*  input 18 is: Get Cellular all state            *
+*  input 19 is: Get Sim Card State                *
+*  input 20 is: Get Apn name                      *
+*  input 21 is: Set Apn name                      *
+*  input 22 is: Set 5G switch                     *
+*  input 23 is: Set roaming switch                *
+***************************************************
+
+1
+Set NW RESET!
+please input (0: soft reset, 1: hard reset): 1
+^C
+~ #ping www.baidu.com -c4
+ping: bad address 'www.baidu.com'
+~ # ^C
+~ #date
+Mon Jan 10 18:40:47 UTC 2022
+~ #

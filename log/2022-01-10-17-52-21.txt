@@ -1,0 +1,9 @@
+---test case print---
+
+~ # root
+/bin/sh: root: not found
+~ # qo}g{F!rzXcp2jUQ6T%7
+/bin/sh: qo}g{F!rzXcp2jUQ6T%7: not found
+~ #date
+Mon Jan 10 09:52:30 UTC 2022
+~ #
