@@ -95,4 +95,4 @@ def run(com, username, password, number_of_tests, operations):
         time.sleep(5)
     tbox_control.s_close()
     test_result.end_write(count)
-    # input("Please enter any key to exit and check the result in 'result.txt':\n")
+    input("Please enter any key to exit and check the result in 'result.txt':\n")
